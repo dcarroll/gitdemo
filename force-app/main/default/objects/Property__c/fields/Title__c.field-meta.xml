@@ -3,7 +3,7 @@
     <fullName>Title__c</fullName>
     <externalId>false</externalId>
     <label>Title</label>
-    <length>100</length>
+    <length>125</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <trackHistory>false</trackHistory>
